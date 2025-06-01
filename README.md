@@ -131,7 +131,7 @@ make
 ```
 🖼 Скриншоты 
 
-![Game Screenshot](\гитхаб\menu.png) 
+![Image alt](https://github.com//Maria-krima/---/blob/main/menu.jpg)
 ![Game Screenshot](\гитхаб\teleport.png)
 ![Game Screenshot](\гитхаб\walls.png) 
 ![Game Screenshot](гитхаб\standart.png)

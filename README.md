@@ -131,8 +131,8 @@ make
 ```
 🖼 Скриншоты 
 
-![Game Screenshot](C:\Users\Maria\Desktop\гитхаб\menu.png) 
-![Game Screenshot](C:\Users\Maria\Desktop\гитхаб\teleport.png)
-![Game Screenshot](C:\Users\Maria\Desktop\гитхаб\walls.png) 
-![Game Screenshot](C:\Users\Maria\Desktop\гитхаб\standart.png)
+![Game Screenshot](\гитхаб\menu.png) 
+![Game Screenshot](\гитхаб\teleport.png)
+![Game Screenshot](\гитхаб\walls.png) 
+![Game Screenshot](гитхаб\standart.png)
 # ---
